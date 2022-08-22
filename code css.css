@@ -1,0 +1,53 @@
+nav{
+    background-color: rgb(191, 139, 239);
+}
+
+#sante{
+    position: relative;
+    left: 80;
+    top: 0;
+}
+
+#conseil{
+    position: relative;
+    right: 0;
+    top: 0;
+
+}
+
+
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    justify-content: space-around;
+  
+}
+
+
+
+
+#arabe{
+    text-align: right;}
+hgroup{
+      background-color: aquamarine;
+      text-align: center;}
+figure{
+
+    color:aqua;
+    text-align: center;
+}
+
+
+section {
+                 display:grid;
+                 grid-template-columns: auto auto auto ;
+                 text-align: center
+}
+
+     
+p{text-align: center;
+    font-family:'lucida sans','kucida sans regular','lucida grand' geneva,verdana,;
+}
